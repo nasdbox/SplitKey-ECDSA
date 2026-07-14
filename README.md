@@ -10,7 +10,7 @@ A Python implementation demonstrating the core mathematics behind **Threshold EC
 
 ---
 
-## ✨ Features
+## Features
 
 * **Additive Key Splitting:** Distributes a secp256k1 private key into multiple secret shares.
 * **Paillier Homomorphic Encryption:** Allows parties to multiply their key shares cryptographically without revealing the underlying plaintext values.
@@ -18,10 +18,10 @@ A Python implementation demonstrating the core mathematics behind **Threshold EC
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
-You will need Python 3.8+ and the following cryptographic libraries:
+You will need Python 3.9+ and the following cryptographic libraries:
 
 ```bash
 pip install ecdsa phe
